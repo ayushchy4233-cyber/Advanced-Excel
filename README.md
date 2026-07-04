@@ -1,3 +1,48 @@
+📊 Excel Project: Calculating Revenue & Key Business Metrics
+
+Project Overview
+
+This Excel project focuses on calculating revenue-related values and analyzing key business performance metrics using Microsoft Excel formulas. The dataset contains over 15,000 sales records, and the project demonstrates how Excel can be used to transform raw sales data into meaningful business insights.
+
+Key Tasks Performed
+
+- Calculated Discount Value using sales and discount percentage.
+- Computed Net Revenue after applying discounts.
+- Created a Metrics Dashboard using Excel formulas.
+- Calculated:
+  - Total Sales
+  - Total Profit
+  - Average Net Revenue
+  - Average Discount Value
+  - Average Discount Percentage
+  - Average Quantity Sold
+  - Average Profit
+  - Maximum Quantity Sold
+  - Minimum Profit
+
+Excel Functions Used
+
+- "SUM()"
+- "AVERAGE()"
+- "MIN()"
+- "MAX()"
+- Basic arithmetic formulas
+- Cell references across worksheets
+
+Skills Demonstrated
+
+- Microsoft Excel
+- Data Cleaning
+- Business Metrics Calculation
+- Revenue Analysis
+- Formula-Based Reporting
+- Data Analysis
+
+This project is part of my Data Analytics learning journey and showcases my ability to analyze business data and generate meaningful insights using Excel.
+
+
+
+
 DMart Sales Data Analysis – Advanced Excel
 
 Project Overview
