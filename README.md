@@ -1,4 +1,4 @@
-📊 Excel Project: Calculating Revenue & Key Business Metrics
+2) Excel Project: Calculating Revenue & Key Business Metrics
 
 Project Overview
 
@@ -43,7 +43,7 @@ This project is part of my Data Analytics learning journey and showcases my abil
 
 
 
-DMart Sales Data Analysis – Advanced Excel
+1) DMart Sales Data Analysis – Advanced Excel
 
 Project Overview
 
