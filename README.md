@@ -1,4 +1,56 @@
-2) Excel Project: Calculating Revenue & Key Business Metrics
+3)  Excel Project 3 – Auditing Formulas & Managing Named Ranges
+
+  Project Overview
+This project demonstrates how to audit Excel formulas, verify calculations, and organize large datasets using Named Ranges. The workbook contains more than 15,000 sales records and focuses on improving formula accuracy, readability, and workbook management.
+
+  Objectives
+- Audit formulas to identify calculation errors.
+- Verify formula dependencies and references.
+- Create and manage Named Ranges for better readability.
+- Improve workbook organization and maintainability.
+- Practice working with large datasets efficiently.
+
+  Dataset Information
+The dataset includes:
+- Order ID
+- Region
+- Category
+- Sales
+- Discount
+- Discount Value
+- Net Revenue
+- Quantity
+- Order Date
+- Delivery Date
+- Customer Type
+- Payment Mode
+- Profit
+- City
+
+ 🛠 Skills Demonstrated
+- Formula Auditing
+- Trace Precedents & Dependents
+- Error Checking
+- Named Ranges
+- Formula Verification
+- Workbook Management
+- Data Validation
+- Excel Best Practices
+
+  Key Learning Outcomes
+- Improved formula accuracy through auditing tools.
+- Simplified formulas using Named Ranges.
+- Enhanced workbook readability and maintenance.
+- Strengthened Excel troubleshooting skills.
+
+  Tools Used
+- Microsoft Excel
+-
+-
+-
+-
+-
+- 2) Excel Project: Calculating Revenue & Key Business Metrics
 
 Project Overview
 
